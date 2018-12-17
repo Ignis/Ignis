@@ -17,8 +17,9 @@ type: Document
 * fix update status winkelmand
 * fix afmelden bon in combinatie met tijdregistratie
 * Diverse kleine verbeteringen
-* | **Versie** | [0.9.0.3](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.903.apk) |
-  | Datum | 28-11-2018 |
+  
+| **Versie** | [0.9.0.3](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.903.apk) |
+| Datum | 28-11-2018 |
 * Punten tijdregistratie
 * Performance verbeteringen div. schermen
 * Filteren looplijst verbeterd
