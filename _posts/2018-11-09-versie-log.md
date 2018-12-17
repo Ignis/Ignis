@@ -8,7 +8,7 @@ page: mobile
 type: Document
 ---
 
-|—– |—— | |**Versie** |[0.9.0.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |12-12-2018 |
+|**Versie** |[0.9.0.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |12-12-2018 |
 
 * Optie om direct email te sturen na afmelden bon
 * In tijdregistratie scherm knop om lopende serviceorder te openen
