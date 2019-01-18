@@ -21,6 +21,7 @@ type: Document
 * Module voorraadbeheer toegevoegd
 * Fix voor dubbele artikelen in winkelmand
 * Dashboardscherm aangepast
+* Dashboard: mogelijkheid om door te klikken naar serviceorders, planlijst en agenda
 * In winkelmand gebruik van camera en barcode scanner
 * Scannen barcode via camera, extra button voor aanzetten flashlight
 * Optie om bij object streetview locatiemap  als foto op te slaan (voor beheer brandputten)
