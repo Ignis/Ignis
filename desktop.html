@@ -11,17 +11,14 @@
 		{% if size > 0 %}
 		<section class="category">
 				<h3>
-					<a href="{{ site.baseurl }}/desktop/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
+					<a href="{{ site.baseurl }}/category/{{ name | slugify }}/">{{ name | replace: "-", " " }}</a>
 				</h3>
 
 			<ul>
 				{% assign tutorials = desktopPosts | sort: "title" %}
-				{% for tutorial in tutorials limit: 4 %}
-					<li><a href="{{ site.baseurl }}/desktop/{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
+				{% for tutorial in tutorials %}
+					<li><a href="{{ site.baseurl }}/{{ tutorial.url }}">{% include document-icon.html icon=tutorial.type %}{{ tutorial.title }}</a></li>
 				{% endfor %}
-				{% if size > 4 %}
-					<li><a href="{{ site.baseurl }}/desktop/category/{{ name | slugify }}/">{{ size | minus: 4 }} more...</a></li>
-				{% endif %}
 			</ul>
 		</section>
 		{%endif %}
