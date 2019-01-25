@@ -15,6 +15,7 @@ type: Document
 * fix tijdregistratie bij openen vanuit kalender
 * Div. aanpassingen in aantallen scherm
 * Div. kleine aanpassingen
+* Div. kleine bugfixes
 
 |**Versie** |[0.9.0.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.906.apk) | |Datum |18-01-2019 |
 * Planlijst, meest actuele bovenaan
