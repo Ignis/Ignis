@@ -8,7 +8,15 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.0.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |18-01-2019 |
+|**Versie** |[0.9.6.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |25-01-2019 |
+* Aantallen scherm: tab toegevoegd met overzicht adviezen
+* Aantallen scherm: korting zichtbaar in artikeloverzicht
+* Adviezen per object zichtbaar historie scherm
+* fix tijdregistratie bij openen vanuit kalender
+* Div. aanpassingen in aantallen scherm
+* Div. kleine aanpassingen
+
+|**Versie** |[0.9.0.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.906.apk) | |Datum |18-01-2019 |
 * Planlijst, meest actuele bovenaan
 * Tijdregistratie, na toevoegen lossen activiteit wordt nu direct kilometer scherm getoond
 * Tijdregistratie, na stop dienst automatisch syncrhoniseren
@@ -26,5 +34,4 @@ type: Document
 * Scannen barcode via camera, extra button voor aanzetten flashlight
 * Optie om bij object streetview locatiemap  als foto op te slaan (voor beheer brandputten)
 
-|**Versie** |[0.9.0.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.905.apk) | |Datum |21-12-2018 |
 
