@@ -11,12 +11,15 @@ type: Document
 |**Versie** |[0.9.7.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |8-02-2019 |
 * Aanpassingen tijdregistratie
 * Aanpassinge kilometerregistratie
+* Serviceorder looplijst zichtbaar bij status "alleen inzien"
+* Serviceorder, adres naw worden nu getoond
 * Verbeterde geheugenafhandeling waardoor app soepeler werkt
 * In serviceorder- en adreslijst zijn afspraken zichtbaar dmv kleurindicatie
 * Overzicht adviezen, kolom looptroutenr toegevoegd
 * Artikelen worden alleen zichtbaar als "tonen op pda" aangevinkt staat in backoffice
 * fix situatie waarbij dubbele keuring werd aangemaakt
 * fix annuleren nieuw object werd toch zichtbaar in looplijst
+* fix synchroniseren adviezen
 * Div. kleine aanpassingen
 * Div. kleine bugfixes
 
