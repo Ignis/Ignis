@@ -8,7 +8,20 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.6.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |25-01-2019 |
+|**Versie** |[0.9.7.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |8-02-2019 |
+* Aanpassingen tijdregistratie
+* Aanpassinge kilometerregistratie
+* Verbeterde geheugenafhandeling waardoor app soepeler werkt
+* In serviceorder- en adreslijst zijn afspraken zichtbaar dmv kleurindicatie
+* Overzicht adviezen, kolom looptroutenr toegevoegd
+* Artikelen worden alleen zichtbaar als "tonen op pda" aangevinkt staat in backoffice
+* fix situatie waarbij dubbele keuring werd aangemaakt
+* fix annuleren nieuw object werd toch zichtbaar in looplijst
+* Div. kleine aanpassingen
+* Div. kleine bugfixes
+
+
+|**Versie** |[0.9.6.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.961.apk) | |Datum |25-01-2019 |
 * Aantallen scherm: tab toegevoegd met overzicht adviezen
 * Aantallen scherm: korting zichtbaar in artikeloverzicht
 * Adviezen per object zichtbaar historie scherm
@@ -20,7 +33,7 @@ type: Document
 |**Versie** |[0.9.0.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.906.apk) | |Datum |18-01-2019 |
 * Planlijst, meest actuele bovenaan
 * Tijdregistratie, na toevoegen lossen activiteit wordt nu direct kilometer scherm getoond
-* Tijdregistratie, na stop dienst automatisch syncrhoniseren
+* Tijdregistratie, na stop dienst automatisch synchroniseren
 * Scherm aantallen, verbruikte materialen toont nu ook bruto prijzen indien contant klant
 * Support op afstand direct te starten vanuit app
 * Looplijst, menu filter optie locatiefilter hoger in de lijst geplaatst
