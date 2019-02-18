@@ -52,3 +52,4 @@ type: Document
 * Optie om bij object streetview locatiemap  als foto op te slaan (voor beheer brandputten)
 
 
+|**Versie** |[test](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |18-02-2019 |
