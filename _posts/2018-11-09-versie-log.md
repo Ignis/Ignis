@@ -8,7 +8,14 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.7.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |8-02-2019 |
+|**Versie** |[0.9.7.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |20-02-2019 |
+* Snelheids verbetering
+* div kleine aanpassingen
+* Maps verplaatst naar Serviceorders
+* In maps is een filter toegevoegd om alleen bonnen van de huidige dag te tonen
+
+
+|**Versie** |[0.9.7.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.970.apk) | |Datum |8-02-2019 |
 * Aanpassingen tijdregistratie
 * Aanpassinge kilometerregistratie
 * Serviceorder looplijst zichtbaar bij status "alleen inzien"
