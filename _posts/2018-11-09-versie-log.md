@@ -8,7 +8,19 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.7.2](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |22-02-2019 |
+|**Versie** |[0.9.8.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |15-03-2019 |
+* Control vervangen voor weergave serviceorder overzicht
+* Nieuwe zoekmethode in serviceorder overzicht
+* Filter op plaats of type bon in serviceorder overzicht
+* Verbeterde scroll ervaring in serviceorder overzicht en planlijst
+* Auto refresh van serviceorder overzicht na synchronsiatie
+* Bulkcopy functie in looplijst voor aanmaken reeks objecten
+* Instellingen pda instelbaar via backoffice
+* Rechten voor aanmaken/wijzigen in kenmerkenboom via backoffice instelbaar
+* Diverse geheugenoptimalisaties doorgevoerd
+* Diverse bugfixes
+
+|**Versie** |[0.9.7.3](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.973.apk) | |Datum |22-02-2019 |
 * Snelheids verbetering
 * div kleine aanpassingen
 * Maps verplaatst naar Serviceorders
