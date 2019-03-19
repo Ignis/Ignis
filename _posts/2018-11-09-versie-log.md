@@ -8,7 +8,15 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.8.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |15-03-2019 |
+|**Versie** |[0.9.8.3
+](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |19-03-2019 |
+* Onnodig ophalen van serviceorders opgelost bij synchronisatie
+* Berekenen extra handelingen geoptimaliseerd
+* Herhaalafspraken zichtbaar van basisafspraak die in het verleden ligt
+* Direct focus bij klikken in  detailscherm keuringsobject na openen
+* Artikelscherm, bij kiezen artikelgroep automatisch terugnavigeren naar tab met artikelen van deze groep
+
+|**Versie** |[0.9.8.2](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.982.apk) | |Datum |15-03-2019 |
 * Control vervangen voor weergave serviceorder overzicht
 * Nieuwe zoekmethode in serviceorder overzicht
 * Filter op plaats of type bon in serviceorder overzicht
