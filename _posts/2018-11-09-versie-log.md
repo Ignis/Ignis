@@ -15,6 +15,7 @@ type: Document
 * Herhaalafspraken zichtbaar van basisafspraak die in het verleden ligt
 * Direct focus bij klikken in  detailscherm keuringsobject na openen
 * Artikelscherm, bij kiezen artikelgroep automatisch terugnavigeren naar tab met artikelen van deze groep
+* Filter uitbreiding in 'Maps'  Nu ook volgende werkdag zichtbaar
 
 |**Versie** |[0.9.8.2](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.982.apk) | |Datum |15-03-2019 |
 * Control vervangen voor weergave serviceorder overzicht
