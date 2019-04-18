@@ -8,8 +8,21 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.8.3
-](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |19-03-2019 |
+|**Versie** |[0.9.9.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |18-04-2019 |
+* Snelheids verbetering
+* Layout verbeteringen
+* Diverse kleine aanpassingen
+* Wegnavigeer icoon van pagina heeft nu vaste positie aan linkerkant van scherm
+* Object met subobject toont nu 2 status icoontjes. Grote icoon is voor status hoofdobject kleine icoon voor status subobjecten
+* Hoofdobject met subobject mogelijkheid om met een klik (direct ok alles) alle onderdelen een keuring te geven
+* Adviezen worden direct getoond in History tab
+* Filteren op locatie. Nu ook mogelijk om op hoofdniveau's te filteren (alleen verdiepingen)
+* Limiet ingesteld op de bulkcopy
+* Geheugenoptimalisaties doorgevoerd
+* Diverse bugfixes
+
+
+|**Versie** |[0.9.8.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.984.apk) | |Datum |19-03-2019 |
 * Onnodig ophalen van serviceorders opgelost bij synchronisatie
 * Berekenen extra handelingen geoptimaliseerd
 * Herhaalafspraken zichtbaar van basisafspraak die in het verleden ligt
@@ -53,32 +66,4 @@ type: Document
 * Div. kleine bugfixes
 
 
-|**Versie** |[0.9.6.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.961.apk) | |Datum |25-01-2019 |
-* Aantallen scherm: tab toegevoegd met overzicht adviezen
-* Aantallen scherm: korting zichtbaar in artikeloverzicht
-* Adviezen per object zichtbaar historie scherm
-* fix tijdregistratie bij openen vanuit kalender
-* Div. aanpassingen in aantallen scherm
-* Div. kleine aanpassingen
-* Div. kleine bugfixes
-
-|**Versie** |[0.9.0.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.906.apk) | |Datum |18-01-2019 |
-* Planlijst, meest actuele bovenaan
-* Tijdregistratie, na toevoegen lossen activiteit wordt nu direct kilometer scherm getoond
-* Tijdregistratie, na stop dienst automatisch synchroniseren
-* Scherm aantallen, verbruikte materialen toont nu ook bruto prijzen indien contant klant
-* Support op afstand direct te starten vanuit app
-* Looplijst, menu filter optie locatiefilter hoger in de lijst geplaatst
-* Controls geupdate naar de laatste versie
-* Div fixes voor Android 9
-* Status van subobjecten wordt nu correct weergegeven
-* Module voorraadbeheer toegevoegd
-* Fix voor dubbele artikelen in winkelmand
-* Dashboardscherm aangepast
-* Dashboard: mogelijkheid om door te klikken naar serviceorders, planlijst en agenda
-* In winkelmand gebruik van camera en barcode scanner
-* Scannen barcode via camera, extra button voor aanzetten flashlight
-* Optie om bij object streetview locatiemap  als foto op te slaan (voor beheer brandputten)
-
-
-|**Versie** |[test](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |18-02-2019 |
+|**Versie** |[testversie](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |17-04-2019 |
