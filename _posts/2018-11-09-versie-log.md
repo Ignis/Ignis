@@ -8,7 +8,23 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.9.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |18-04-2019 |
+|**Versie** |[0.9.9.3](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |03-05-2019 |
+* Terugbutton aanraakgevoeligheid verbeterd
+* Bij typen lange teksten blijf je nu zien wat je typt, cursor verdwijnt niet meer achter toetsenbord
+* Zoeken in locatieboom
+* Invoeren van locaties en kenmerken verbeterd
+* Div. layout verbeteringen
+* Login scherm sneller zichtbaar
+* App geoptimaliseerd voor tablets
+* Optie om bluetooth barcode scanner te koppelen
+* Scrollen naar object bij scannen nu mogelijk
+* Vanuit servicebon inzien documentbeheer backoffice (nu alleen offertes en werkinstructies)
+* Snel invoegen standaard teksten dmv blauwe ballon rechtsboven toetsenbord
+* Met minder klikken subobjecten toevoegen
+* Diverse bugfixes
+  
+
+|**Versie** |[0.9.9.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.990.apk) | |Datum |18-04-2019 |
 * Snelheids verbetering
 * Layout verbeteringen
 * Diverse kleine aanpassingen
@@ -48,22 +64,6 @@ type: Document
 * Maps verplaatst naar Serviceorders
 * In maps is een filter toegevoegd om alleen bonnen van de huidige dag te tonen
 * Scherm aantallen tab toegevoegd met specificatie verbruikte materialen per object
-
-
-|**Versie** |[0.9.7.0](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.970.apk) | |Datum |8-02-2019 |
-* Aanpassingen tijdregistratie
-* Aanpassinge kilometerregistratie
-* Serviceorder looplijst zichtbaar bij status "alleen inzien"
-* Serviceorder, adres naw worden nu getoond
-* Verbeterde geheugenafhandeling waardoor app soepeler werkt
-* In serviceorder- en adreslijst zijn afspraken zichtbaar dmv kleurindicatie
-* Overzicht adviezen, kolom looptroutenr toegevoegd
-* Artikelen worden alleen zichtbaar als "tonen op pda" aangevinkt staat in backoffice
-* fix situatie waarbij dubbele keuring werd aangemaakt
-* fix annuleren nieuw object werd toch zichtbaar in looplijst
-* fix synchroniseren adviezen
-* Div. kleine aanpassingen
-* Div. kleine bugfixes
 
 
 |**Versie** |[testversie](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |17-04-2019 |
