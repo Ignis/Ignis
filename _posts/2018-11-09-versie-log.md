@@ -8,7 +8,15 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.9.3](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |03-05-2019 |
+|**Versie** |[0.9.9.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |10-05-2019 |
+* Menu item voor realtime ophalen laatste info object (voor werkplaats)
+* Qrcode configuratie voor codes waarin het objectnummer opgenomen is in 'tekstregel'
+* Mogelijkheid printen labels servicebon via APK-connector
+* Diverse bugfixes
+* Layout aantal schermen aangepast
+* 
+
+|**Versie** |[0.9.9.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.995.apk) | |Datum |03-05-2019 |
 * Terugbutton aanraakgevoeligheid verbeterd
 * Bij typen lange teksten blijf je nu zien wat je typt, cursor verdwijnt niet meer achter toetsenbord
 * Zoeken in locatieboom
