@@ -1,0 +1,56 @@
+---
+date: 2010-03-18 00:00:00
+title: Update OS PM80 device
+categories:
+  - Algemeen
+description:
+page: mobile
+type: Document
+---
+
+LET OP! Zorg dat er een WIFI verbinding beschikbaar is
+
+Bijwerken OS Point Mobile PM80:
+
+1. Open het scherm van de instellingen
+2. Kies 'Over de telefoon' (staat helemaal onderaan)
+3. Selecteer 'System Updates'
+4. Klik op de 3 puntjes rechts boven in je scherm
+5. Kies 'FOTA Client'
+6. Kies uit de lijst het item onder 'West Europe'
+7. Klik op 'OK'
+8. Wacht tot de download voltooid is
+
+
+
+STAP 1: 
+=
+![](/images/2019-03-18-08-51-45.png)
+
+STAP 2:
+=
+![](/images/2019-03-18-08-53-09.png)
+
+STAP 3:
+=
+![](/images/2019-03-18-08-53-20.png)
+
+STAP 4:
+=
+![](/images/2019-03-18-08-54-07.png)
+
+STAP 5:
+=
+![](/images/2019-03-18-08-54-18.png)
+
+STAP 6:
+=
+![](/images/2019-03-18-08-54-36.png)
+
+STAP 7:
+=
+![](/images/2019-03-18-08-54-55.png)
+
+STAP 8:
+=
+![](/images/2019-03-18-08-55-35.png)
