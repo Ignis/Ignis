@@ -1,6 +1,6 @@
 ---
-date: 2010-03-18 00:00:00
-title: Update OS PM80 device
+date: 2019-05-10 00:00:00
+title: Scanner instellingen PM80 device
 categories:
   - Algemeen
 description:
@@ -8,49 +8,18 @@ page: mobile
 type: Document
 ---
 
-LET OP! Zorg dat er een WIFI verbinding beschikbaar is
+1. Ga naar de instellingen van het Android device.
+2. Selecteer hier de barcode instellingen.
+3. Controleer de instellingen a.d.h.v onderstaande schermen.
 
-Bijwerken OS Point Mobile PM80:
+![](/images/2019-05-10-08-02-38.png)
 
-1. Open het scherm van de instellingen
-2. Kies 'Over de telefoon' (staat helemaal onderaan)
-3. Selecteer 'System Updates'
-4. Klik op de 3 puntjes rechts boven in je scherm
-5. Kies 'FOTA Client'
-6. Kies uit de lijst het item onder 'West Europe'
-7. Klik op 'OK'
-8. Wacht tot de download voltooid is
+![](/images/2019-05-10-08-02-51.png)
 
+![](/images/2019-05-10-08-03-08.png)
 
+![](/images/2019-05-10-08-03-17.png)
 
-STAP 1: 
-=
-![](/images/2019-03-18-08-51-45.png)
+![](/images/2019-05-10-08-03-25.png)
 
-STAP 2:
-=
-![](/images/2019-03-18-08-53-09.png)
-
-STAP 3:
-=
-![](/images/2019-03-18-08-53-20.png)
-
-STAP 4:
-=
-![](/images/2019-03-18-08-54-07.png)
-
-STAP 5:
-=
-![](/images/2019-03-18-08-54-18.png)
-
-STAP 6:
-=
-![](/images/2019-03-18-08-54-36.png)
-
-STAP 7:
-=
-![](/images/2019-03-18-08-54-55.png)
-
-STAP 8:
-=
-![](/images/2019-03-18-08-55-35.png)
+![](/images/2019-05-10-08-03-33.png)
