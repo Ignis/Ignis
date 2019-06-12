@@ -8,7 +8,7 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.9.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |10-05-2019 |
+|**Versie** |[0.9.9.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9962.apk) | |Datum |10-05-2019 |
 * Menu item voor realtime ophalen laatste info object (voor werkplaats)
 * Qrcode configuratie voor codes waarin het objectnummer opgenomen is in 'tekstregel'
 * Mogelijkheid printen labels servicebon via APK-connector
