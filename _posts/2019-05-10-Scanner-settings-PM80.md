@@ -2,7 +2,7 @@
 date: 2019-05-10 00:00:00
 title: Scanner instellingen PM80 device
 categories:
-  - Algemeen
+  - Configuratie
 description:
 page: mobile
 type: Document
