@@ -8,10 +8,27 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[0.9.9.7](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9973.apk) | |Datum |22-06-2019 |
+* Serviceorders nu zichtbaar in een scherm met div. tabbladen.
+* QR code scan voor meerdere regels in barcode
+* Minimaal 1x per 24 uur verplichte synchroniseren.
+* Online aanmaken serviceorder
+* Stop tijdregistratie huidige bon zonder vraag voor bevestiging
+* Fix scannen barcode met camera
+* Verbetering mbt synchronisatie
+* Toevoegen eerste advies artikel, dan vervolgactie automatisch 'offerte maken' 
+* Kopieeren/plakken artikelen en adviezen naar andere keuring
+* Alleen lezen bon historie zichtbaar in looplijst
+* Mogelijkheid om 2e monteur te kopppelen aan servicebon
+* Div. layout verbeteringen
+* Diverse bugfixes
+* 
+
 |**Versie** |[0.9.9.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9962.apk) | |Datum |10-05-2019 |
 * Menu item voor realtime ophalen laatste info object (voor werkplaats)
 * Qrcode configuratie voor codes waarin het objectnummer opgenomen is in 'tekstregel'
 * Mogelijkheid printen labels servicebon via APK-connector
+* Diverse kleine aanpassingen
 * Diverse bugfixes
 * Layout aantal schermen aangepast
 * 

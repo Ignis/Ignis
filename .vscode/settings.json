@@ -3,4 +3,7 @@
     "pasteImage.path": "${projectRoot}/images",
     "pasteImage.insertPattern": "${imageSyntaxPrefix}/${imageFilePath}${imageSyntaxSuffix}",
     "markdown.extension.preview.autoShowPreviewToSide": true,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
 }
