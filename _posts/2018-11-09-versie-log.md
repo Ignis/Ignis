@@ -7,6 +7,14 @@ description:
 page: mobile
 type: Document
 ---
+|**Versie** |[0.9.9.7.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9975.apk) | |Datum |02-07-2019 |
+* fix sortering selectie lijsten
+* fix filteren actieve items in selectie lijsten
+* fix navigatie op startscherm
+* sync scherm kleurindicatie bij syncen
+* fix blokkeren toevoegen kenmerken
+* fix sortering afspraken in startscherm
+
 |**Versie** |[0.9.9.7.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9974.apk) | |Datum |28-06-2019 |
 * fix aanmaken sublocaties
 * fix keyboard staat over opslaanknop heen
@@ -14,7 +22,6 @@ type: Document
 * fix vastlopen barcode scanner
 * zoekbox in scherm online keuringsobjecten zoeken
 * verkoopprijzen zichtbaar bij materiaalverbruik en adviezen
-
 
 |**Versie** |[0.9.9.7](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9973.apk) | |Datum |22-06-2019 |
 * Serviceorders nu zichtbaar in een scherm met div. tabbladen.
