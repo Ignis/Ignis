@@ -14,6 +14,7 @@ type: Document
 * sync scherm kleurindicatie bij syncen
 * fix blokkeren toevoegen kenmerken
 * fix sortering afspraken in startscherm
+* fix terugnavigeren uit keuring bij object met subobjecten (als er geen objectnummer gevuld is)
 
 |**Versie** |[0.9.9.7.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9974.apk) | |Datum |28-06-2019 |
 * fix aanmaken sublocaties
