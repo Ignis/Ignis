@@ -7,6 +7,12 @@ description:
 page: mobile
 type: Document
 ---
+|**Versie** |[0.9.9.8](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.998.apk) | |Datum |02-07-2019 |
+* verwijderen locaties mogelijk
+* geheugenoptimalisatie
+* Div. layout verbeteringen
+* Diverse bugfixes
+
 |**Versie** |[0.9.9.7.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9975.apk) | |Datum |02-07-2019 |
 * fix sortering selectie lijsten
 * fix filteren actieve items in selectie lijsten
