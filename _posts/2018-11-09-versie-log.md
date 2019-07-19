@@ -7,6 +7,19 @@ description:
 page: mobile
 type: Document
 ---
+
+|**Versie** |[0.9.9.8.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9981.apk) | |Datum |19-07-2019 |
+* aantallen gepland/uitgevoerd in aantallen overzicht kloppend gemaakt
+* Fix scrollen in looplijst
+* Zebra pda's navigatiebar wordt standaard niet meer weergegeven
+* Gebruik decimaalteken in checklijsten opgelost
+* Samengestelde artikelen worden nu correct toegevoegd via stuklijst
+* Standaard worden nu keuringen gedaan op de huidige bon getoond. Dus bij offerte uitvoeren blijven ze staan.
+* Update usercontrols
+* Div. layout verbeteringen
+* Diverse bugfixes
+
+
 |**Versie** |[0.9.9.8](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.998.apk) | |Datum |02-07-2019 |
 * verwijderen locaties mogelijk
 * geheugenoptimalisatie
