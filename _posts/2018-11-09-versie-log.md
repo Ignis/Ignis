@@ -8,6 +8,16 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[0.9.9.8.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9984.apk) | |Datum |03-09-2019 |
+* invoeren subobjecten vereenvoudigd
+* sortering standaard teksten bij memovelden
+* invoerscherm locaties verbeterd
+* fix aantallen extra handelingen 
+* vertalingen toegevoegd
+* optimalisatie
+* Div. layout verbeteringen
+* Diverse bugfixes
+* 
 |**Versie** |[0.9.9.8.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9981.apk) | |Datum |19-07-2019 |
 * aantallen gepland/uitgevoerd in aantallen overzicht kloppend gemaakt
 * Fix scrollen in looplijst
