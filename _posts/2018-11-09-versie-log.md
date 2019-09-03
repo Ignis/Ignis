@@ -17,7 +17,8 @@ type: Document
 * optimalisatie
 * Div. layout verbeteringen
 * Diverse bugfixes
-* 
+
+
 |**Versie** |[0.9.9.8.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9981.apk) | |Datum |19-07-2019 |
 * aantallen gepland/uitgevoerd in aantallen overzicht kloppend gemaakt
 * Fix scrollen in looplijst
