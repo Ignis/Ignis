@@ -8,7 +8,7 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[0.9.9.8.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9985.apk) | |Datum |03-09-2019 |
+|**Versie** |[0.9.9.8.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9985.apk) | |Datum |04-09-2019 |
 * Statusbar telefoon standaard altijd zichtbaar
 * Fix openen keuringsobject vanuit keuring
 * Fix menu keuring: actie kiezen
