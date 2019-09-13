@@ -8,6 +8,18 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[0.9.9.8.7](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |13-09-2019 |
+* fix dubbele adviezen bij openen bestaande keuring na synchroniseren
+* fix zoeken in kenmerken
+* wijzigen kilometer registratie mogelijk
+* invoerscherm locaties aangepast. Bewerken en verwijderen mogelijk
+* fix popup menu na unlock scherm
+* fix layout. bij sommige velden viel text gedeeltelijk weg
+* optimalisatie
+* div. layout verbeteringen
+* diverse bugfixes
+
+
 |**Versie** |[0.9.9.8.5](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.9985.apk) | |Datum |04-09-2019 |
 * Statusbar telefoon standaard altijd zichtbaar
 * Fix openen keuringsobject vanuit keuring
