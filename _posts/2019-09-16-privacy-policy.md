@@ -1,3 +1,13 @@
+---
+date: 2019-09-16 00:00:00
+title: Privacy Policy
+categories:
+  - Algemeen
+description:
+page: Privacy
+type: Document
+---
+
 ## Privacy Policy
 
 BSA B.V. built the Ignis app as a Commercial app. This SERVICE is provided by BSA B.V. and is intended for use as is.
