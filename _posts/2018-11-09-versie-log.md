@@ -8,6 +8,18 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[0.9.9.9.6](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |11-11-2019 |
+* Kaartscherm verbeterd
+* Locatieboom openen vanuit scherm looplijst, zonder eerst object details te openen
+* Fix verwijderde locaties niet weergeven in filter
+* Wijzig kenmerk in keuring, geeft nu juiste stuklijst
+* Fix verplaatsen afspraak, ook bon opschonen op pda
+* Fix scrol naar juiste positie na aanmaken object
+* Afgmelden bonnen die gesynct zijn kunnen niet meer aangepast worden
+* optimalisatie
+* div. layout verbeteringen
+* diverse bugfixes
+
 |**Versie** |[0.9.9.8.7](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |13-09-2019 |
 * fix dubbele adviezen bij openen bestaande keuring na synchroniseren
 * fix zoeken in kenmerken

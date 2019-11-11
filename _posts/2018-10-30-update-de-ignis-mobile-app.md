@@ -19,3 +19,12 @@ Doorloop de volgende stappen:
 >>Het eerste groepje bevat ALTIJD 3 cijfers en het tweede groepje kan 3 of meer cijfers bevatten. <br/>
 Let op! er moet een spatie staan tussen de 2 groepjes van cijfers.
 7. Klik daarna op update.  ![](/images/2018-10-30-09-11-03.png)
+
+
+Wanneer de update niet lukt, kies dan een van de volgende stappen:
+
+**Oplossing 1**
+
+Wanneer dit niet lukt klik je op de knop "Informatie pagina" (recht onder de knop update).
+Je krijgt dan een webpagina te zien. Klik hier op de link waar achter staat ("laatste versie")
+
