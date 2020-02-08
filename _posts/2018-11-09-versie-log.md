@@ -15,7 +15,7 @@ type: Document
 * Statusflow serviceorder
 * Afgemelde serviceorders wordt na 3 dagen gewist op pda
 * Scanner support voor Point Mobile PM90
-* Uitgebreide synchronisatie status indicatie
+* Uitgebreide synchronisatie status indicatie.
 
 *FIXES*
 * Verbetering snelheid aanmaken checklist
