@@ -22,6 +22,7 @@ type: Document
 * Verbetering snelheid calender
 * Diverse layout aanpassingen
 * Selectie picto bleef staan bij objectdetails
+* Div bugfixes
 
 
 |**Versie** |[testversie](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |07-02-2020 |
