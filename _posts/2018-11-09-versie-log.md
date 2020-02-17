@@ -8,7 +8,16 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[1.0.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |07-02-2020 |
+|**Versie** |[1.0.2](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |17-02-2020 |
+  
+* Snelheidsverbetering inladen icons
+
+*FIXES*  
+* actie vorige checklist regel blijft hangen nieuwe in checklist regel
+* sluiten popup met fysieke toets 
+
+
+|**Versie** |[1.0.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1001.apk) | |Datum |07-02-2020 |
   
   *NIEUW*
 * Looplijst filter op basis van status of vervolgactie voorgaande keuring
