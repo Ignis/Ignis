@@ -31,15 +31,15 @@ Onder het kopje '*keuring*' bevinden zich:
 Onder het kopje *Opmerking* kun informatie gegeven worden over b.v. de reden van afkeur. 
 Als de blauwe ballon zichtbaar is kunnen daarmee standaard teksten toegevoegd worden aan de opmerking.
 
-# Tab Checklijst
+># Tab Checklijst
 
 Hier bevinden zich de punten waarop het object gecontroleerd moet worden.
 
-# Tab Foto
+># Tab Foto
 
 Dit geeft een overzicht van de foto's die gemaakt zijn. Per foto kan een opmerking geplaatst worden. Tevens is het mogelijk om markeringen aan te brengen op een foto.
 
-# Tab Mandje
+># Tab Mandje
 
 Onder het kopje *'Verbruikte materialen'* staan de artikelen die gekozen zijn in de winkelmand.
 
