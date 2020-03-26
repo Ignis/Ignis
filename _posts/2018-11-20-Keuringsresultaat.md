@@ -16,7 +16,7 @@ type: Document
 
 ># Tab Algemeen
 
-Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.
+Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. `Door op die details te klikken kun je de keuringsobject details wijzigen.`
 
 Onder het kopje '*keuring*' bevinden zich:
 - Type
