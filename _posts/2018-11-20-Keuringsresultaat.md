@@ -14,7 +14,6 @@ type: Document
 |<i class="fas fa-lightbulb"></i>|  Voor het maken van adviezen tbv vervolgactie 'offerte maken'|
 
 ----
-
 **Tab Algemeen** 
 
 Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.
@@ -29,7 +28,8 @@ Onder het kopje '*keuring*' bevinden zich:
 - Tijdelijk
   - Om aan te geven dat een tijdelijke leenblusser is achtergelaten bij dit object
 
-Onder het kopje *Opmerking* kun informatie gegeven worden over b.v. de reden van afkeur 
+Onder het kopje *Opmerking* kun informatie gegeven worden over b.v. de reden van afkeur. 
+Als de blauwe ballon zichtbaar is kunnen daarmee standaard teksten toegevoegd worden aan de opmerking.
 
 **Tab Checklijst**
 
