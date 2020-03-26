@@ -13,8 +13,9 @@ type: Document
 |<i class="fas fa-camera-retro"></i>|  Voor het toevoegen van foto's aan de keuring|
 |<i class="fas fa-lightbulb"></i>|  Voor het maken van adviezen tbv vervolgactie 'offerte maken'|
 
-----
+***
 **Tab Algemeen** 
+***
 Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.
 
 Onder het kopje '*keuring*' bevinden zich:
@@ -29,14 +30,13 @@ Onder het kopje '*keuring*' bevinden zich:
 
 Onder het kopje *Opmerking* kun informatie gegeven worden over b.v. de reden van afkeur. 
 Als de blauwe ballon zichtbaar is kunnen daarmee standaard teksten toegevoegd worden aan de opmerking.
-
----
+***
 **Tab Checklijst**
-
+***
 Hier bevinden zich de punten waarop het object gecontroleerd moet worden.
-
+***
 **Tab Foto**
-
+***
 Dit geeft een overzicht van de foto's die gemaakt zijn. Per foto kan een opmerking geplaatst worden. Tevens is het mogelijk om markeringen aan te brengen op een foto.
 
 **Tab Mandje**
