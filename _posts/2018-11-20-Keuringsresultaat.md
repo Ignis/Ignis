@@ -13,6 +13,7 @@ type: Document
 |<i class="fas fa-camera-retro"></i>|  Voor het toevoegen van foto's aan de keuring|
 |<i class="fas fa-lightbulb"></i>|  Voor het maken van adviezen tbv vervolgactie 'offerte maken'|
 
+
 # Tab Algemeen
 
 Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.
@@ -38,8 +39,8 @@ Hier bevinden zich de punten waarop het object gecontroleerd moet worden.
 
 Dit geeft een overzicht van de foto's die gemaakt zijn. Per foto kan een opmerking geplaatst worden. Tevens is het mogelijk om markeringen aan te brengen op een foto.
 
-**Tab Mandje**
+# Tab Mandje
 
 Onder het kopje *'Verbruikte materialen'* staan de artikelen die gekozen zijn in de winkelmand.
 
-Onder het kopje *'Adviesartikelen'* staan de artikelen die geadviseerd worden. Wanneer de vervolgactie 'Offerte maken' is worden deze artikelen opgenomen in de offerte die door de backoffice gemaakt kan worden.
+>Onder het kopje *'Adviesartikelen'* staan de artikelen die geadviseerd worden. Wanneer de vervolgactie 'Offerte maken' is worden deze artikelen opgenomen in de offerte die door de backoffice gemaakt kan worden.
