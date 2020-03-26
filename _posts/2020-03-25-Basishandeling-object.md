@@ -17,8 +17,10 @@ De volgende velden zijn verplicht:
 - Soort
 - Merk
 - Type
+  
 ># Kopiëren
 Selecteer een object uit de looplijst. Kies uit het menu voor `Kopieer object`
+
 ># Verwijderen
 Selecteer een object uit de looplijst. Kies uit het menu voor `Verwijder object`
 >Wanneer een object keuringen bevat moeten eerst de keuringen verwijderd worden!
