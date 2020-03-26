@@ -14,7 +14,7 @@ type: Document
 |<i class="fas fa-lightbulb"></i>|  Voor het maken van adviezen tbv vervolgactie 'offerte maken'|
 
 
-># `Tab Algemeen`
+># Tab Algemeen
 
 Onder het kopje '*Object*' staan de details van het object waarvoor een keuring wordt gemaakt. Door op die details te klikken kun je de keuringsobject details wijzigen.
 
