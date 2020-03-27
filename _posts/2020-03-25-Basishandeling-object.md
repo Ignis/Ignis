@@ -26,7 +26,8 @@ Selecteer een object uit de looplijst. Kies uit het menu voor `Kopieer object`
 ># Verwijderen
 
 Selecteer een object uit de looplijst. Kies uit het menu voor `Verwijder object`
->Wanneer een object keuringen bevat moeten eerst de keuringen verwijderd worden!
+>Wanneer een object keuringen bevat moeten eerst de keuringen verwijderd worden!  
+>Verwijder een keuring door uit het menu te kiezen voor `Historie`. Selecteer een keuring en kies voor verwijderen.
 
 ># Aanmaken locatie boom
 
