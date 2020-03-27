@@ -24,6 +24,7 @@ Nu is de keuring aangemaakt. Wanneer het object afgekeurd is op basis van de che
 Ga terug naar het tabblad 'Algemeen' hier zie je een status overzicht van de keuring.
 
 ># Advies offerte maken
+
 Wanneer je adviezen moet geven voor offerte ga dan naar het lampje <i class="fas fa-lightbulb"></i> rechtsboven. Je krijgt nu de winkelmand te zien. Kies hier de artikelen die geadviseerd worden en sluit de winkelmand.  
 In de keuring bij tab 'Mandje' zie je onder het kopje 'Adviesartikelen' de artikelen staan die geadviseerd zijn.  
 De vervolgactie van de keuring moet nu aangepast worden naar `offerte maken`.  
