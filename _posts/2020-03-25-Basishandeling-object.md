@@ -31,7 +31,7 @@ Selecteer een object uit de looplijst. Kies uit het menu voor `Verwijder object`
 
 ># Aanmaken locatie boom
 
-Klik op het veld naast label locatie. Andere mogelijkheid is om in de looplijst te klikken op de 3 puntjes rechtsboven en dan te kiezen voor `locatieboom`  
+Klik op het veld naast label locatie. Andere mogelijkheid is om in de looplijst te klikken op <i class="fas fa-ellipsis-v"></i> rechtsboven en dan te kiezen voor `locatieboom`  
 In het locatiescherm klik je rechtsboven op het plusje om een locatie toe te voegen.  
 
 >### Sublocatie
