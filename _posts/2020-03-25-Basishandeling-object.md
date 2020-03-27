@@ -11,7 +11,7 @@ type: Document
 
 ># Aanmaken
 
-Open de looplijst. Klik op de 3 puntjes rechtsboven en kies voor `Nieuw object`  
+Open de looplijst. Klik op <i class="fas fa-ellipsis-v"></i>  rechtsboven en kies voor `Nieuw object`  
 De volgende velden zijn verplicht:
 - Bouwjaar 
 - Categorie
