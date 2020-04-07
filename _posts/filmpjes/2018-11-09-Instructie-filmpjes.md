@@ -4,7 +4,7 @@ title: Diversen
 categories:
   - Instructie filmpjes
 description:
-page: mobile
+page: Xmobile
 type: Document
 ---
 
