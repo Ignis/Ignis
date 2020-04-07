@@ -1,6 +1,6 @@
 ---
 date: 2018-10-30 10:47:00
-title: Basishandelingen Keuring
+title: Keuring
 categories:
   - Basis handelingen
 description:

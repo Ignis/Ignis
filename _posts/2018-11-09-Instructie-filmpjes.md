@@ -1,5 +1,5 @@
 ---
-date: 2018-10-30 00:00:00
+date: 2099-10-30 00:00:00
 title: Diversen
 categories:
   - Instructie filmpjes
