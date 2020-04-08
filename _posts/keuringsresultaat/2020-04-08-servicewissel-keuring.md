@@ -8,8 +8,6 @@ page: mobile
 type: Document
 ---
 
-
-># Blusser servicewissel
 Stappen:
 1. selecteer het object en kies 'Keuring: DirectOK'
 2. Object wordt afgekeurd omdat EH uitgevoerd moet worden

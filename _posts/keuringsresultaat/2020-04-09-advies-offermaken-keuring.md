@@ -8,7 +8,6 @@ page: mobile
 type: Document
 ---
 
-># Advies / offerte maken
 Stappen:
 1. selecteer het object en kies 'Keuring: DirectOK'
 2. Keuring wordt aangemaakt
