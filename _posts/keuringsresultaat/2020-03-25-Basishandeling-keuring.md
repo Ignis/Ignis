@@ -1,8 +1,8 @@
 ---
 date: 2018-10-30 10:47:00
-title: Keuring
+title: Keuring aanmaken
 categories:
-  - Basis handelingen
+  - Keuringsresultaat
 description:
 page: mobile
 type: Document

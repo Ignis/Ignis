@@ -2,7 +2,7 @@
 date: 2018-10-30 10:47:00
 title: Advies / offerte maken
 categories:
-  - Basis handelingen
+  - Keuringsresultaat
 description:
 page: mobile
 type: Document
@@ -15,4 +15,4 @@ Stappen:
 4. Voeg de artikelen toe die je wilt adviseren en sluit de winkelmand
 5. Terug in de keuring ga naar tab 'Algemeen'
 6. In de opmerking geef je aan waarom je adviezen geeft.
-15. Sluit de keuring, je komt terug in de looplijst
+7.  Sluit de keuring, je komt terug in de looplijst
