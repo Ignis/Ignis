@@ -8,15 +8,41 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[1.0.4](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1004.apk) | |Datum |05-06-2020 |
+
+*LET OP*
+* Het kan voorkomen dat in de serviceorderlijst dubbele regels staan. Na synchroniseren of bij het resetten van de lijst (via rechtsboven <i class="fas fa-ellipsis-v"></i> - reset), verdwijnen de dubbele regels weer. Hier wordt nog aan gewerkt.
+
+*NIEUW*
+* Dashboard, tab Help laat nu support site Ignis mobile zien
+* serviceorderoverzicht scherm 
+  * kleine layout wijzigingen
+  * filter toegevoegd voor planperiode
+  * filter toegevoegd voor type bon
+  * tab planlijst, naam klant ook zichtbaar
+  * tab planlijst, huidige dag wordt gemarkeerd
+
+*FIXES*  
+* Sublocaties werden niet gesorteerd
+* In bulkcopy werd opvolgende barcode niet altijd correct aangemaakt
+* In servicebon werd standaard tekst via blauwe ballon niet toegevoegd
+* Check bij afmelden bon telde ook de subobjecten mee
+* Serviceorderoverzicht, tab planlijst, afspraak zonder servicebon in het verleden bleef zichtbaar
+  
+*ANDERS*
+* Groeperings titels verwijderd uit serviceorder overzicht scherm
+
+
+***
 |**Versie** |[1.0.2](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |17-02-2020 |
   
+*NIEUW*  
 * Snelheidsverbetering inladen icons
 
 *FIXES*  
 * actie vorige checklist regel blijft hangen nieuwe in checklist regel
 * sluiten popup met fysieke toets 
-
-
+***
 |**Versie** |[1.0.1](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1001.apk) | |Datum |07-02-2020 |
   
   *NIEUW*
@@ -32,6 +58,5 @@ type: Document
 * Diverse layout aanpassingen
 * Selectie picto bleef staan bij objectdetails
 * Div bugfixes
-
-
+***
 |**Versie** |[testversie](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |07-02-2020 |
