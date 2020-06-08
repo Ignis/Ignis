@@ -23,6 +23,7 @@ type: Document
   * tab planlijst, huidige dag wordt gemarkeerd
 
 *FIXES*  
+* Nieuwe servicebon na synchronisatie was niet altijd direct zichtbaar
 * Sublocaties werden niet gesorteerd
 * In bulkcopy werd opvolgende barcode niet altijd correct aangemaakt
 * In servicebon werd standaard tekst via blauwe ballon niet toegevoegd
