@@ -8,7 +8,7 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[1.0.4 (build 128)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.x1004.apk) | |Datum |10-06-2020 |
+|**Versie** |[1.0.4 (build 128)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1004.apk) | |Datum |10-06-2020 |
 
 *LET OP*
 * Het kan voorkomen dat in de serviceorderlijst dubbele regels staan. Na synchroniseren of bij het resetten van de lijst (via rechtsboven <i class="fas fa-ellipsis-v"></i> - reset), verdwijnen de dubbele regels weer. Hier wordt nog aan gewerkt.
