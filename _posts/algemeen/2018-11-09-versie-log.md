@@ -8,6 +8,17 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[1.0.5 (build 129)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1005.apk) | |Datum |14-07-2020 |
+
+*FIXES*  
+* fix aanmaken dubbele afspraak wanneer je dezelfde bon 2x aanklikt
+* check invoeren kilometers. Validatie op van/naar en aantal kilometers
+* check of keuringsoort niet leeg is
+* snelheid inladen details keuringsobject verbeterd, zeker bij grote lijsten
+* verbeterde stabiliteit bij invoeren/bewerken grote lijsten
+
+
+
 |**Versie** |[1.0.4 (build 128)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1004.apk) | |Datum |10-06-2020 |
 
 *LET OP*
