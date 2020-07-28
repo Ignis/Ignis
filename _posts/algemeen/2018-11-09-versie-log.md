@@ -16,7 +16,7 @@ type: Document
 *NIEUW*  
 * Kopieer bestaande keuring
 * Standaard teksten ook beschikbaar bij opmerking foto
-* Extra typekeuring 'herstelkeuring'
+* Extra type-keuring 'herstelkeuring'
 
 
 |**Versie** |[1.0.5 (build 129)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1005.apk) | |Datum |14-07-2020 |
