@@ -8,6 +8,16 @@ page: mobile
 type: Document
 ---
 
+|**Versie** |[1.0.7 (build 131)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1007.apk) | |Datum |3-09-2020 |
+
+*FIXES*
+* Na verwijderen afspraak uit agenda wordt agenda nu correct bijgewerkt
+* Bij opslaan afspraak kon verkeerd sleutelveld gekoppeld worden  
+
+*NIEUW*  
+* Afspraak gemaakt op backoffice kan niet gewijzigd worden in de app
+
+
 |**Versie** |[1.0.6 (build 130)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1006.apk) | |Datum |24-07-2020 |
 
 *FIXES*
