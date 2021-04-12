@@ -128,5 +128,4 @@ type: Document
 
 
 
-|**Versie** |[testversie]
-(http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk) | |Datum |07-02-2020 |
+|**Versie** |[testversie](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.test.apk)| |Datum |07-02-2020 |
