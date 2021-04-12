@@ -11,7 +11,26 @@ type: Document
 
 |**Versie** |[2021.03.0 (build 131)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.2021030.apk) | |Datum |12-04-2021 |
 
-*
+*Bugfixes:*
+
+* Geen dubbele afspraken meer bij de planlijst
+* Agenda en datum op bon komen nu wel overheen
+* 'Enters' worden nu juist geformateerd in de back-office
+* Planlijst staat nu op volgorde van datum
+* Notitieblok blijft gevuld na het synchroniseren
+* Foutieve weergave totaalbedrag advies is opgelost
+* Fout bij inladen kaart / maps is opgelost
+* Objecten zijn nu weer zichtbaar bij status uitvoeren offerte
+* Planlijst filter werkt nu wel met correcte datums
+* Null object value melding is opgelost
+* Emailen rapportage werkt weer visueel met check
+* Memory-leak in de app opgelost
+
+*Verbeterpunten:*
+
+* Foto's kunnen nu verwijderd worden bij een keuringsobject
+* Eigen gemaakte afspraken kunnen nu verwijderd worden
+* Knopje timestamp toegevoegd bij notitieveld serviceorder
 *
 
 |**Versie** |[1.0.7 (build 131)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.1007.apk) | |Datum |3-09-2020 |
