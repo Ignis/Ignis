@@ -13,6 +13,12 @@ type: Document
 |**Versie** |[2021.03.3 (build 202103)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.2021033.apk) | |Datum |15-04-2021 |
 
 *Bugfixes:*
+* foutmelding bij starten app, kan serviceorders niet laden.
+
+
+|**Versie** |[2021.03.2 (build 202103)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.2021032.apk) | |Datum |13-04-2021 |
+
+*Bugfixes:*
 
 * Geen dubbele afspraken meer bij de planlijst
 * Agenda en datum op bon komen nu wel overheen
