@@ -8,7 +8,13 @@ page: mobile
 type: Document
 ---
 
-|**Versie** |[Laatste versie (build 2021x)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |15-04-2021 |
+|**Versie** |[Laatste versie (build 2021x)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.apk) | |Datum |16-04-2021 |
+
+|**Versie** |[2021.03.5 (build 202103)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.2021035.apk) | |Datum |16-04-2021 |
+
+*verbetering:*
+* synchroniseren van bonnen met meer dan 9000 eenheden mogelijk.
+
 
 |**Versie** |[2021.03.3 (build 202103)](http://apk4umobile.v2.ignissoftware.nl/apkupdates/mobilev2/Ignis.2021033.apk) | |Datum |15-04-2021 |
 
